@@ -1,5 +1,5 @@
 body{
- background-image: url(http://axonshare.com/wp-content/uploads/2014/02/In-Blue.jpg)
+ background-image: url(http://www.dci-canada.org/wp-content/uploads/2014/04/Light-Blue-Wallpaper-231.jpg)
 }
 div{
    border-style: none;
@@ -21,9 +21,10 @@ a{
     }
     .jumbotron{
         border-style: solid;
-        border-width: 5px;
-        padding: 30px;
-    border-color: gray;
+        border-width: 2px;
+        padding: 10px;
+    border-color: black;
+    
     }
     
     .p{
@@ -42,3 +43,6 @@ a{
     .img-circle {
         float: left;
     }
+    
+       
+   
